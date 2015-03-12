@@ -1,0 +1,5 @@
+*.pyc
+*.old*
+static
+.sqlite3
+.db
